@@ -1,6 +1,170 @@
-
 #EXTM3U
 
-http://tecnotv.club/hot69/listahot.m3u
+##########Canais Aberto
 
-https://raw.githubusercontent.com/Gilsonbolner/CHAVES/main/README.md12
+#EXTINF:0 tvg-id="Globorj.br" group-title="TV Aberta",Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:0 tvg-id="Bandsp.br" group-title="TV Aberta",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT PE HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKQVzrZucmagMf_Mv9NtVE5DIe8ZAqe6nlQ&usqp=CAU" group-title="Cine pix",Cine pix
+https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZg3lWoz8jvbqERSUk3mnNo1QrQUKKWZyumg&usqp=CAU" group-title="TV manchete",Tv Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1059031771.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvqidBiiCLQWVTsEwH9Ys1482vY1mJpjV1A&usqp=CAU" group-title="Tv Bons Tempos",Tv Bons Tempos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q7DjK123UUpSbtw-KxArw_U82Fl36sMEHQ&usqp=CAU" group-title="Tv Londrina",Londrina Tv
+https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKHr9mYyPQaNwkflOrsFYuUrEMXpzYpR49AQ&usqp=CAU" group-title=TV Max",Tv Max
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZug7rKE1iIc7kd8_t5ssURPIA4yChJF8dA&usqp=CAU"group-title="TV Channel",Tv Channel
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w444570906.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPw_ObdATIAnYc7cvpeXkbfICsIwhhabBGHw&usqp=CAU" group-title="Web Tv  Cidade",Web Tv Cidade
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1746213512.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNB7oY5mgBALYBU7XNI5_xCCmYm5eaplNuQ&usqp=CAU" group-title="Web Tv Agua Boa",Web Tv Agua Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w882609338.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGmFeVIyX70KcK6VupqHj1_SYgHk-Yt5-QQ&usqp=CAU" group-title="TV Nova Play",Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzYiBfwqCT_plY24MKPG2vfieUePegWQmc4g&usqp=CAU" group-title="TV Cine",Tv Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTXaafTZ_eNnx8CqU5eVlyqPG1NFdbglgsQ&usqp=CAU" group-title="TV Web Guarei",Tv Web Guarei
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1981731542.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdZamtreYk3dF2r1hmi6RHkNFO8hSJF5ctA&usqp=CAU" group-title="Retrô Cartoon",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEh6dIYYOOlaKp5xLXm86wb2ej03xhu9TpNg&usqp=CAU" group-title="Canal 29",Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmVTeHmWON84-kKdxdbujJv_Ih4KhunG-iw&usqp=CAU" group-title="Wham TV Classic",Wham TV Classic
+https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w813827152.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuphVOPU0m40txrA-9jEcRtqWIa7JJqt6OyA&usqp=CAU" group-title="Web TV Xtreme",Web TV Xtreme
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__xCznH-gnRfLlLmFHnzz21psLOnr-Pe4Iw&usqp=CAU" group-title="Rede Clone TV",Rede Clone TV
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD08QULzSmgHc7yaxjEmQBNgRHhVieFOGLw&usqp=CAU" group-title="TV Vintage",TV Vintage
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1200207689.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNS0JWWdMstnHNtC-gpzq99iHNbXf-MqS0g&usqp=CAU" group-title="TV Natal",TV Natal
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w2042378885.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8YFxPnFGq6J7nPSsop1D087hwicy1OOKDQ&usqp=CAU" group-title="TV Osório",TV Osório
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w223093512.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixu0ehv05lGm63UU8Kc3gkdgnpWKRky4ASw&usqp=CAU" group-title="Anime Station",Anime Station
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w667451052.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLsovWcK7qzgKuU5D0BNrpYFsArD7PbwS_g&usqp=CAU" group-title="Anime Zone",Anime Zone
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCxJgYbdArT-dZUusrN5x0l4t28iNBiHNxA&usqp=CAU" group-title="Nova Gazeta TV",Nova Gazeta TV
+http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1729437060.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoyms7thXSbBNHOZbVNVE1prgUI2ojpIjpw&usqp=CAU" group-title="Demais TV",Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1430210382.m3u8
+#EXTINF:0 tvg-id="" group-title="Red Bull TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXeDTFVJRNowY9HnCEQdzsvdadNhyXyAmmrQ&usqp=CAU" group-title="Gospel Carbon",Gospel Carbon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w87320519.m3u8
+#EXTINF:0 tvg-id="" group-title="Jetsons TV",Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1702632727.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNXq_yjQSeZNEgGkkix4AAOJYJZsYKbNQnQ&usqp=CAU" group-title="TV Gallo",Tv Gallo 
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuQur_Ia30JjVgAYXcEH7aAqpBT5KASaRFg&usqp=CAU" group-title="WebTV",TV Pantanal MS - WebTV
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgIYUhBJGICidFQncV6FO6wJHu_ZCJGsDRQ&usqp=CAU" group-title="Tv Ista",Tv Ista
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+#EXTINF:0 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrshUEZGx8E5KsMpXiHzolOCKMJM5iJlxiQ&usqp=CAU" group-title="YEEAAH TV",YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+##########FILME
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZ9jRq9Ha9nXREPw1-piG26Zf0fZsvLWlcg&usqp=CAU" group-title="filme",Jolt: Fúria Fatal
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial5/Jolt.2021.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCVfVsQGLD2oiP8YFif_HjFMjuYaHbdvTAQ&usqp=CAU" group-title="filme",Mulan
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial1/Mulan.2020.DUB.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oSfsqYRoRGB15DD-r77ud-kuMJlZ0R3G2g&usqp=CAU" group-title="filme",Miraculous World – Xangai, a Lenda de Lady Dragon
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial5/MiraculousWorldXangai.2021.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVRUteM0a7PwodhtCrSS0mVpiOthQlWZi-0w&usqp=CAU" group-title="filme",Tróia
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/Troia.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaO1HHTowD1O2AsdcAMxicIQMuwl6mKe3vxQ&usqp=CAU" group-title="filme",Dupla Explosiva
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial5/DuplaExplosiva.1.2017.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8F8pzx8gTfZz_OppJ30WxpHR-mJbY_0eCA&usqp=CAU" group-title="filme",A Hora do Rush 2
+http://batttle1.s3.us-central-1.wasabisys.com/cdn2/rush2-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MVhzYMDYSWbiEgzrWwIC9jsbCWXJ-PzAwg&usqp=CAU" group-title="filme",A Hora do Rush 3
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/AHoradoRush3.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvywMvRdUeqyERYHRv-6bDm-vuhIbfx47npg&usqp=CAU" group-title="filme",Esposa de Mentirinha
+http://batttle1.s3.us-central-1.wasabisys.com/cdn12/EsposaDeMentirinha.2011.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEx6trdILQdqjq46xM3DSz4QEAvitYKZwXJA&usqp=CAU" group-title="filme",Venom: Tempo de Carnificina
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial5/VenomLetThereBeCarnage.2021.CAM.LEG.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisaMhZcZodX_ARez9CyKbD87ZkYHF6cUzdw&usqp=CAU" group-title="filme",Venom
+http://aws.datacamp.store/online/xuxa/335983?video.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DN0acagNsYgPUusOyQp5qBsuXiQuH7yVWg&usqp=CAU" group-title="filme",Kong: A Ilha da Caveira
+http://batttle1.s3.us-central-1.wasabisys.com/cdn9/KongAIlhadaCaveira.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPxi6EcrtQiIQ_c5oT5CFJui_1RE3uYbkkg&usqp=CAU" group-title="filme",Godzilla
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/godzilla.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjUuijCI33z5enezT8CxO3aKDtyTsyAHucvg&usqp=CAU" group-title="filme",A Ilha
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial2/GrandIsle.2020.DUB.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysl7QGuJKKoMllfh-F90LsD58ubAtyIxNPQ&usqp=CAU" group-title="filme",Bad Boys Para Sempre
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial3/BadBoysParaSempre.2020.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanf_MOcI_d4vsZ4jB3ukr5ny2Na1b7OGDTQ&usqp=CAU" group-title="filme",O Rei Leão
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/oreileao2019.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCqjliOA_jjDtHak5kkXGZ_ceuG79usmz8w&usqp=CAU" group-title="filme",Capitã Marvel
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/CapitaMarvel.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMr-JdlEB42_UDKjqQtAekBBOgY_JfQadug&usqp=CAU" group-title="filme",Dragon Ball Super: Broly
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/dragonballsuperbrolly.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrarZK71d5pfVtcwRWPZVi0Hpp35OhhFMw3A&usqp=CAU" group-title="filme",Arranha-Céu: Coragem Sem Limite
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/ArranhaCeuCoragemSemLimite.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHGCD6ENck_MTtCmVBWxZcTJ7ND1Ff5it_A&usqp=CAU" group-title="filme",Jurassic World: Reino Ameaçado
+http://batttle1.s3.us-central-1.wasabisys.com/cdn9/jurassicworldreinoameacado.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3pK4bTpm5WDbhtWff8AnEyMFzSc9BBQqJEQ&usqp=CAU" group-title="filme",Rota de Fuga 2
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/rotadefuga2.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqJBWNrqW6bDxwtYD0kzIWP6a7GDLp8PBJA&usqp=CAU" group-title="filme",Círculo de Fogo: A Revolta
+http://batttle1.s3.us-central-1.wasabisys.com/cdn1/pacificrimnovo-dub480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8SVqEWLX4G1fFb9iTb74e5tC_bFtlw5N7g&usqp=CAU" group-title="fillme",Rampage: Destruição Total
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/RampageDestruicaoTotal.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNmWvAByrXb9AAsJOQEodz3f48YeQjfK87w&usqp=CAU" group-title="filme",Meu Malvado Favorito 3
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/MeuMalvadoFavorito3.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJB9RV9t_BYWyNahoKxHAzZQXfM3-OM7OnQ&usqp=CAU" group-title="filme",Logan
+http://batttle1.s3.us-central-1.wasabisys.com/cdn2/logan-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7L15OOQnjjywl974Ou5OvAxcSsUdzIn4SSQ&usqp=CAU" group-title="filme",Velozes e Furiosos 8
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/velozesefuriosos8.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErvSP6v4AZCvoOtNuBHeF5n4oU77lqVDjIA&usqp=CAU" group-title="filme",Independence Day: O Ressurgimento
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/independencedayoressurgimento.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqn6qESEqGAuFp0lB5Ulmski-Yum59D_wdA&usqp=CAU" group-title="filme",Capitão América: Guerra Civil
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/CapitaoAmericaGuerraCivil.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOBmvebll3wapbC_8EBlJK_mGZXMjHKSrWQ&usqp=CAU" group-title="filme",Deadpool
+http://batttle1.s3.us-central-1.wasabisys.com/cdn8/Deadpool.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUuBU8f84CZdWj5Lc-nwceM2ElFkaBJFhpg&usqp=CAU" group-title="filme",Jurassic World: O Mundo dos Dinossauros
+http://batttle1.s3.us-central-1.wasabisys.com/cdn11/JurassicWorldOMundodosDinossauros.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwA8bC4Mr24bfAkt69Ev8oelQCdHjBDb4Gg&usqp=CAU" group-title="filme",Vingadores: Era de Ultron
+http://aws.datacamp.store/online/feral/dub/99861.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbCDDY7gS-PeBY0Ceb2WkWrZPg3PjH8eXQA&usqp=CAU" group-title="filme",Terremoto – A Falha de San Andreas
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/TerremotoAFalhadeSanAndreas.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pqaOEuWqwxkd-cDrlXvJN4JDUWK9bmUmNg&usqp=CAU" group-title="filme",Batman vs Superman: A Origem da Justiça
+http://batttle1.s3.us-central-1.wasabisys.com/cdn2/batmanvsuperman-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpCWm5FqrhlFdVsgLWcIca5rpx4WX7tWd9Q&usqp=CAU" group-title="filme",Segurança de Shopping 2
+http://batttle1.s3.us-central-1.wasabisys.com/cdn6/segurancadeshopping2.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfwrGM0U7ed7J2ajfBoX-TOorYwd88p5zu-A&usqp=CAU" group-title="filme",O Protetor
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/OProtetor.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToT13NCB9sJb7TfB2c7PwXy1sy3e6t8LxJqA&usqp=CAU" group-title="ext",Transformers: A Era da Extinção
+http://batttle1.s3.us-central-1.wasabisys.com/cdn12/TransformersAEraDaExtincao.2014.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfsfOltjTVmv0L5HCEwGsyXU_986upGmbbXw&usqp=CAU" group-title="filme",Como Treinar o seu Dragão 2
+http://batttle1.s3.us-central-1.wasabisys.com/cdn8/ComoTreinarSeuDragao2.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRP-Tff0eRLYG_akEi0MrcBW3DzCkGfUyMA&usqp=CAU" group-title="filme",Carga Explosiva: O Legado
+http://batttle1.s3.us-central-1.wasabisys.com/cdn12/CargaExplosivaOLegado.2015.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvmd8wPRWgwP3F_-YCBF83NrmqDInRiheDQ&usqp=CAU" group-title="filme",O Protetor 2
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/OProtetor2.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnp7FfNSbPX-88nyxXENaTCCvze6a83hgbQ&usqp=CAU" group-title="filme",Velozes &amp; Furiosos: Hobbs &amp; Shaw
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial3/VelozeseFuriososHobbs.Shaw.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-Qna0KOcGd-mg8WA2QtlIdkRG6K23_PmQQ&usqp=CAU" group-title="filme",Vingadores : Ultimato
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial3/Vingadores.Ultimato.2019.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYn3gighN14bb31UUHEIjb9cx_bKPo093IuQ&usqp=CAU" group-title="filme",Velozes &amp; Furiosos 9
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial5/VelozeseFuriosos.9.2021.DUB.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqCTbumlYKjry3JtMAS5R2mPyvKJoETZMoBQ&usqp=CAU" group-title="filme",It: Capítulo Dois
+http://batttle1.s3.us-central-1.wasabisys.com/cdnespecial3/ItCapituloDois.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzWqmGOtYvH4J7DzIHB9ybYd3yemwww0-vw&usqp=CAU" group-title="filme",Malévola
+http://batttle1.s3.us-central-1.wasabisys.com/cdn12/Malevola.2014.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vbs-Y2GxRuKxzwpIzzl1rzMJUm-EgRXoYg&usqp=CAU" group-title="filme",A Era do Gelo
+http://batttle1.s3.us-central-1.wasabisys.com/cdn1/gelo1-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJH221qdRXU2YubycKta_j_BMW9tTVmhdTog&usqp=CAU" group-title="filme",A Era do Gelo 2
+http://batttle1.s3.us-central-1.wasabisys.com/cdn1/gelo2-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHAdEvKiTvJfb2_hfyDeOaaNWUJTOX1CDxA&usqp=CAU" group-title="filme",A Era do Gelo 3
+http://batttle1.s3.us-central-1.wasabisys.com/cdn3/gelo3.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQI6V1q5grBJsS2rmWOkMOz5aooMpcDwhxg&usqp=CAU" group-title="filme",A Era do Gelo 4
+http://batttle1.s3.us-central-1.wasabisys.com/cdn1/gelo4-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAXkpJkfAkoDeNR-y-ur-eVhLUqyJyRM1KA&usqp=CAU" group-title="filme",A Era do Gelo: O Big Bang
+http://batttle1.s3.us-central-1.wasabisys.com/cdn9/AEradoGeloOBigBang.2016.mp4
