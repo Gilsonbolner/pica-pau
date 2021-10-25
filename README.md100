@@ -621,7 +621,6 @@ http://server.pipocando.xyz/backup-product/f/03/tt4630562.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErvSP6v4AZCvoOtNuBHeF5n4oU77lqVDjIA&usqp=CAU" group-title="filme",Independence Day: O Ressurgimento
 http://server.pipocando.xyz/backup-product/f/03/tt1628841.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqn6qESEqGAuFp0lB5Ulmski-Yum59D_wdA&usqp=CAU" group-title="filme",Capitão América: Guerra Civil
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOBmvebll3wapbC_8EBlJK_mGZXMjHKSrWQ&usqp=CAU" group-title="filme",Deadpool
 http://server.pipocando.xyz/backup-product/f/03/tt1431045.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUuBU8f84CZdWj5Lc-nwceM2ElFkaBJFhpg&usqp=CAU" group-title="filme",Jurassic World: O Mundo dos Dinossauros
@@ -4639,7 +4638,197 @@ https://assistonlineapi.online/make/check/?list=a59b192f78f16890
 #EXTINF:0 tvg-id="ext" group-title="Os Sacanas Filminho",E12 Café com Sexo
 https://assistonlineapi.online/make/check/?list=62e1cd1e7812bc5f
 
-
+##########RADIO
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Infantil
+http://192.99.150.31:8371/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jazz
+http://192.99.150.31:8042/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Roberto Carlos
+http://192.99.150.31:9137/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rap Nacional
+http://192.99.150.31:8377/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Guarda
+http://192.99.150.31:8801/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Hip Hop BR
+http://192.99.150.31:8721/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Funk Proibidão
+http://192.99.150.31:9089/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Disney FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Rádios",Rádio Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Estação Top FM
+http://198.255.106.154:13487/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Top FM
+http://cloud2.cdnseguro.com:23642/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Coca-Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mundial AM
+http://ice1.crossradio.com.br:8078/live.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nossa Rádio AM
+http://ice33a.crossradio.com.br:9236/live.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Trianon AM
+http://afiliadamix2.crossradio.com.br:9008/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gazeta AM
+http://servidor1a.crossdigital.com.br:9552/1;?1508369510
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nacional Gospel AM
+http://184.107.161.115:9998/;stream.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Cultura AM
+http://tvcultura.com.br/_radio/streaming.php?radio=am
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Super RBV AM
+http://streamradio.boavontade.com/sp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Bandeirantes AM
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mix FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Metropolitana FM
+http://74.63.237.85:8598/live
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nova Brasil FM
+http://14013.live.streamtheworld.com/NOVABRASIL_SP_SC
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Pan FM
+http://17523.live.streamtheworld.com/JP_SP_FM_SC
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio News FM
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nativa FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Band Vale FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Cachoeira AM
+http://centova.welltecnologia.com.br:8096/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nova FM
+http://stm45.streamingbage.net.br:11454/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Clube Bagé AM
+http://stm7.streamingbage.net.br:16766/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Esperança AM
+http://200.175.79.171:8000/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Guaíba FM/AM
+http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Band News FM
+http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gaúcha FM/AM
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Bandeirantes FM/AM
+http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Gr6 Explode FM
+http://173.236.30.162:8485/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio FM O Dia
+http://audio.bb07.upx.net.br:8058/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mania FM
+http://radio.servercsi.com.br:8595/;
+#EXTINF:0 tvg-id="avi" group-title="Rádios",Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio 99.5 FM
+http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio 104 FM
+http://noasrv.caster.fm:10127/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Continental FM
+http://noasrv.caster.fm:10126/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Caiçara FM/AM
+http://noasrv.caster.fm:10130/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Capão FM
+http://noasrv.caster.fm:10131/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Praia FM
+http://noasrv.caster.fm:10132/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Grenal FM
+http://noasrv.caster.fm:10115/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Tramandaí FM
+http://noasrv.caster.fm:10133/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio FM Premium
+http://noasrv.caster.fm:10125/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Xangri-lá FM
+http://noasrv.caster.fm:10137/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Imbé FM
+http://noasrv.caster.fm:10135/stream
 
 
 
